@@ -14,8 +14,8 @@ export const Footer = () => {
           </Link>
         </Button>
         <Button variant="ghost" size="sm" asChild>
-          <Link href="/terms-and-conditions">
-            Terms & Conditions
+          <Link href="https://github.com/DevD00T/lotion">
+            GitHub Repo Link
           </Link>
         </Button>
       </div>
